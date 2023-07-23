@@ -40,12 +40,10 @@ button {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    /* font-family: 'Rubik', sans-serif; */
     font-family: 'Quicksand', sans-serif;
 }
 
 button:hover {
-    /* background-color: #432000; */
     background-color: #a00e28;
     cursor: pointer;
 }
@@ -69,9 +67,6 @@ ul li {
 }
 
 ul li:hover {
-    /* background-color: #FFECC7;
-    background-color: #e5d77b; */
-    /* background-color: #f2e06f; */
     background-color: #f1e7a5;
     cursor: pointer;
 }
