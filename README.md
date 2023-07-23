@@ -6,6 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
+You can read about my experience working through this tutorial on [my blog] (https://lscodes.com/firebase-app-scrimba-course/)
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
